@@ -21,7 +21,7 @@ Applicazione Spring Boot che implementa il modello dati di un semplice social ne
 
 **Diagramma ER:**
 
-![Diagramma ER](docs/er-diagram.png)
+![Diagramma ER](docs/diagramma%20ER.jpeg)
 
 ## Scelte di design sulle relazioni
 
@@ -44,10 +44,14 @@ Applicazione Spring Boot che implementa il modello dati di un semplice social ne
 
 ## Screenshot
 
-**Tabelle generate su pgAdmin:**
+**Struttura delle tabelle generate su pgAdmin:**
 
-![Tabelle](docs/tables.png)
+![Struttura tabelle](docs/screenshot%20tabelle.png)
 
 **Dati presenti nelle tabelle:**
 
-![Dati](docs/data.png)
+![Dati users](docs/screenshot%20dati/tabella%20users.png)
+![Dati posts](docs/screenshot%20dati/tabella%20posts.png)
+![Dati comments](docs/screenshot%20dati/tabella%20comments.png)
+![Dati post_like](docs/screenshot%20dati/tabella%20post_like.png)
+
